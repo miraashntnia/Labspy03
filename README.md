@@ -20,7 +20,7 @@ kita akan membuat sebuah program untuk menampilkan bilangan sebanyak n kali, dan
 
 <img width="502" alt="1" src="https://user-images.githubusercontent.com/72985112/98501050-b69f8d00-2280-11eb-8e70-2d3fbc559353.png">
 
-- berikut hasil run nya
+- Berikut hasil run nya
 
 <img width="413" alt="2" src="https://user-images.githubusercontent.com/72985112/98501079-c6b76c80-2280-11eb-9182-31f92248ed03.png">
 
